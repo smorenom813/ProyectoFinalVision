@@ -52,7 +52,7 @@ def detect_shape(contour):
 # Función para abrir el juego 2048 en Google
 def open_2048_game():
     print("Abriendo 2048...")
-    webbrowser.open("https://play2048.co/")
+    webbrowser.open("https://play2048.org/es/")
     time.sleep(5)  # Esperar a que el juego cargue
 
 # Función para enviar comandos al juego 2048
