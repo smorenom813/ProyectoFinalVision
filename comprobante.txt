@@ -1,0 +1,2 @@
+¡Contraseña introducida correctamente!
+Secuencia detectada: square -> circle -> square -> circle

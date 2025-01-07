@@ -1,0 +1,20 @@
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+12
+Intrinsics:
+ [[1.48870074e+03 0.00000000e+00 6.74119880e+02]
+ [0.00000000e+00 1.48905929e+03 3.79822213e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+Distortion coefficients:
+ [[-0.05313665  0.85315342  0.00570786  0.00509274 -1.55220213]]
+Root mean squared reprojection error:
+ 0.6203390174227018
+
+
+------------------
+(program exited with code: 0)
+Press return to continue
+
